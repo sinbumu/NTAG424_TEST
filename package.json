@@ -1,0 +1,16 @@
+{
+  "name": "ntag424_test",
+  "version": "1.0.0",
+  "description": "NTAG 424 테스트 관련 코드뭉치",
+  "main": "decode.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.4.0"
+  }
+}
